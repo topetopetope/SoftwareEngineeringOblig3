@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 
 
 
-public class Leap_Year_Or_Not {
+public class Test_Leap_Year_Or_Not {
 
     @ParameterizedTest
     @MethodSource("StreamOfYearsDividableBy4not100")
